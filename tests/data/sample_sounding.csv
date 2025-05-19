@@ -1,0 +1,4 @@
+pressure_hPa,temperature_C,dewpoint_C,windDirection,windSpeed,geopotentialHeight
+1000,25,20,180,5,100
+850,15,10,190,10,1500
+700,5,0,210,15,3000

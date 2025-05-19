@@ -1,0 +1,4 @@
+eccodes
+numpy
+pandas
+pytest
